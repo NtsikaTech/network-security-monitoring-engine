@@ -145,7 +145,7 @@ This project is designed for:
 ## 👤 Author
 
 **Ntsika Xhali**  
-Cybersecurity | SOC Simulation | Threat Intelligence
+Junior SOC Analyst | SOC Simulation | Threat Intelligence
 
 ---
 
