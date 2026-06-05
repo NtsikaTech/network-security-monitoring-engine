@@ -147,7 +147,7 @@ This project is designed for:
 ### 🚨 Incident Detection Output
 Shows detected threats, risk scoring, and MITRE ATT&CK mapping.
 
-![Incident Detection](screenshots/incident-detection-output)
+![Incident Detection](screenshots/incident-detection-output.png)
 
 ---
 
