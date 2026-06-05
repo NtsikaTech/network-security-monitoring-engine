@@ -1,0 +1,52 @@
+{
+    "generated_at": "2026-06-05 21:32:42",
+    "incident_count": 6,
+    "incidents": [
+        {
+            "source_ip": "192.168.1.10",
+            "event_count": 1,
+            "total_risk": 15,
+            "alerts": []
+        },
+        {
+            "source_ip": "185.220.101.45",
+            "event_count": 1,
+            "total_risk": 90,
+            "alerts": [
+                "Possible SSH Brute Force Attack"
+            ]
+        },
+        {
+            "source_ip": "10.0.0.5",
+            "event_count": 1,
+            "total_risk": 70,
+            "alerts": [
+                "Possible RDP Brute Force / Remote Access Abuse"
+            ]
+        },
+        {
+            "source_ip": "10.0.0.8",
+            "event_count": 1,
+            "total_risk": 70,
+            "alerts": [
+                "Possible RDP Brute Force / Remote Access Abuse"
+            ]
+        },
+        {
+            "source_ip": "8.8.8.8",
+            "event_count": 1,
+            "total_risk": 65,
+            "alerts": [
+                "Possible DNS Tunneling / Abuse"
+            ]
+        },
+        {
+            "source_ip": "192.168.1.50",
+            "event_count": 1,
+            "total_risk": 55,
+            "alerts": [
+                "Possible HTTP Flood / Web Abuse"
+            ]
+        }
+    ]
+}

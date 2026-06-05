@@ -1,0 +1,44 @@
+[
+    {
+      "source_ip": "192.168.1.10",
+      "destination_ip": "172.217.170.46",
+      "port": 80,
+      "protocol": "HTTP",
+      "connections": 25
+    },
+    {
+      "source_ip": "185.220.101.45",
+      "destination_ip": "192.168.1.20",
+      "port": 22,
+      "protocol": "SSH",
+      "connections": 300
+    },
+    {
+      "source_ip": "10.0.0.5",
+      "destination_ip": "192.168.1.15",
+      "port": 3389,
+      "protocol": "RDP",
+      "connections": 180
+    },
+    {
+      "source_ip": "10.0.0.8",
+      "destination_ip": "192.168.1.10",
+      "port": 3389,
+      "protocol": "RDP",
+      "connections": 120
+    },
+    {
+      "source_ip": "8.8.8.8",
+      "destination_ip": "192.168.1.12",
+      "port": 53,
+      "protocol": "DNS",
+      "connections": 200
+    },
+    {
+      "source_ip": "192.168.1.50",
+      "destination_ip": "192.168.1.1",
+      "port": 80,
+      "protocol": "HTTP",
+      "connections": 250
+    }
+  ]
