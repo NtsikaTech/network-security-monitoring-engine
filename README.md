@@ -142,6 +142,36 @@ This project is designed for:
 
 ---
 
+## 📸 Screenshots
+
+### 🚨 Incident Detection Output
+Shows detected threats, risk scoring, and MITRE ATT&CK mapping.
+
+![Incident Detection](screenshots/incident-detection-output.png)
+
+---
+
+### 🔗 Incident Correlation View
+Shows how multiple alerts are grouped into a single security incident.
+
+![Incident Correlation](screenshots/incident-correlation-view.png)
+
+---
+
+### 🧾 SOC Ticket Output
+Shows generated SOC tickets with severity, status, and metadata.
+
+![SOC Ticket](screenshots/soc-ticket-output.png)
+
+---
+
+### 📄 JSON SOC Report Export
+Shows structured incident reporting in JSON format for SOC workflows.
+
+![SOC Report](screenshots/json-report-export.png)
+
+---
+
 ## 👤 Author
 
 **Ntsika Xhali**  
